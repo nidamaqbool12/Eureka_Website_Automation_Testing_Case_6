@@ -1,23 +1,20 @@
-Eureka_Website_Automation_Testing_Case_6
+# Eureka_Website_Automation_Testing_Case_6
 
-Overview
+## Overview
 
-This repository contains the Case_6 automation script. It is developed using Python and Selenium to automate Access_Typed_Free_To_Read book and book chapter search and download actions via searching on the Eureka website. The script was developed in PyCharm IDE.
+This repository contains the Case_6 automation script. It is developed using Python and Selenium to automate Case Via Searching (Access_Type Free_To_Read Books) on the Eureka website. The script was developed in PyCharm IDE.
 
-Test Case Summary:
+## Test Case Summary:
 
-This positive test case verifies that a user can successfully access and download assigned Access_Typed_Free_To_Read books or Access_Typed_Free_To_Read book chapters from the Eureka Website. The user logs in with valid credentials and then searches for the Access Book or Book Chapter by entering the title/keyword in the Search field and clicking the search button. If the selected book is assigned by the admin, the user is able to download the permitted content, either specific chapters or the complete book. The system displays the relevant chapter or books, and the user clicks on the Download button to complete the download.
+This positive test case verifies that a user can successfully access and download assigned  Access_Typed_Free_To_Read  books or  Access_Typed_Free_To_Read  book chapters from the Eureka Website. The user logs in with valid credentials and, then search for the Access Book or Book Chapter  enter the title/keyword then clicked on thr search button  If the selected book is assigned by the admin, the user is able to download the permitted content, either specific chapters or the complete book. Then the System displays the relevant chapter or books. and User clicks on the Download button for downloading.
 
-Folder Structure
+
+## Folder Structure
 
 <img width="541" height="345" alt="image" src="https://github.com/user-attachments/assets/192d393a-cea3-4e00-a011-e5cc2fe34943" />
 
 
-.env File
-
-Purpose:
-
-To securely store login credentials and the base URL.
+## .env File
 
 Install dotenv library:
 
